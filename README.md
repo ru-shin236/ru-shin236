@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rushikesh Shinde</h1>
 <h3 align="center">Machine Learning and Data science</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/ru-shin236](https://github.com/rushin236)
+- 👨‍💻 All of my projects are available at [https://github.com/rushin236](https://github.com/rushin236)
 
 - 💬 Ask me about **data science and machine learning**
 
